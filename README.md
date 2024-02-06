@@ -4,7 +4,7 @@
 ## Expertise
 - WinUI 3, win 11 sdk
 - C++ data structure and algorithm
-- MySQL database countrol
+- MySQL database control
 - JS React & TS React, HTML, CSS
 - Python, Java
 
