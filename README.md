@@ -1,11 +1,22 @@
 # Software Engineering Student at McGill
 *I code in c++*
 
-## Mainly participate coding challenges 
+## Expertise
+- WinUI 3, win 11 sdk
+- C++ data structure and algorithm
+- MySQL database countrol
+- JS React & TS React, HTML, CSS
+- Python, Java
+
+## Interest
+- Application development
+- GUI low-level development
+
+
+## Algorithm & Compeition
 - Meta Cup
-- Leetcode Weekly and Biweekly
-- University of Montreal hackathon
-- Mcgill Hackathon
-- Topcoder Chanllenges
-- University of Concordia Hackathon
-- Hack the North, University of Waterloo
+- Leetcode Weekly
+- McHack
+- ConuHack
+- PolyAI
+
