@@ -2,15 +2,17 @@
 *I code in c++*
 
 ## Expertise
+- JS React & TS React webDev, bootstrap & materialUI
 - WinUI 3, win 11 sdk
 - C++ data structure and algorithm
-- MySQL database control
-- JS React & TS React, HTML, CSS
-- Python, Java
+- MySQL & SQL, database query controller, snowflake cloud admin
+- Backend python & node.js
+- Java
 
 ## Interest
 - Application development
 - GUI low-level development
+- Backend Algorithm
 
 
 ## Algorithm & Compeition
@@ -19,4 +21,7 @@
 - McHack
 - ConuHack
 - PolyAI
-
+  
+## Job Experience
+- Research Intern at Mitacs
+- Developer Intern at Fuel Transport
