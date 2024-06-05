@@ -15,7 +15,7 @@
 ## Interest
 - Application development
 - GUI low-level development
-- Backend Algorithm
+- Backend Algorithm development
 
 
 ## Algorithm & Compeition
