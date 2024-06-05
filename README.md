@@ -5,12 +5,12 @@
 
 
 ## Expertise
-- JS React & TS React webDev, bootstrap & materialUI
-- WinUI 3, win 11 sdk
+- JS React & TS React WebDev, Bootstrap & Material UI
+- WinUI 3, Win 11 sdk
 - C++ data structure and algorithm
-- MySQL & SQL, database query controller, snowflake cloud admin
-- Backend python & node.js
-- Java
+- MySQL & SQL, database query controller, Snowflake cloud admin
+- Backend Python & Node.js
+- Java & Bash 
 
 ## Interest
 - Application development
@@ -18,7 +18,7 @@
 - Backend Algorithm development
 
 
-## Algorithm & Compeition
+## Competition
 - Meta Cup
 - Leetcode Weekly
 - McHack
