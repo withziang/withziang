@@ -1,6 +1,9 @@
 # Software Engineering Student at McGill
 *I code in c++*
 
+
+
+
 ## Expertise
 - JS React & TS React webDev, bootstrap & materialUI
 - WinUI 3, win 11 sdk
