@@ -1,5 +1,4 @@
 # Software Engineering Student at McGill
-*I code in c++*
 
 
 
@@ -13,9 +12,18 @@
 - Java & Bash 
 
 ## Interest
-- Application development
+- Full Stack development
 - GUI low-level development
-- Backend Algorithm development
+- Potential AI research after graduation 
+
+## Main focused Languages
+- C++
+- JavaScript, ReactJS
+- Python
+  
+## Job Experience
+- Developer Intern at Fuel Transport
+- Research Intern at Mitacs
 
 
 ## Competition
@@ -24,7 +32,3 @@
 - McHack
 - ConuHack
 - PolyAI
-  
-## Job Experience
-- Research Intern at Mitacs
-- Developer Intern at Fuel Transport
