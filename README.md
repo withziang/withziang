@@ -1,6 +1,6 @@
 # Software Engineering Student at McGill
 
-
+*Full Stack Developer*
 
 
 ## Expertise
