@@ -1,6 +1,6 @@
 # Software Engineering Student at McGill
 
-*Full Stack*
+*A Full Stack Developer that wants to get into Quant*
 
 
 ## Expertise
@@ -13,6 +13,7 @@
 - Github action, docker image automation
 
 ## Interest
+- Quant
 - Full Stack development
 - Potential AI research after graduation 
 
