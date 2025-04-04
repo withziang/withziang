@@ -16,7 +16,7 @@
 - Quant SWE
 - Full Stack development
 
-## Main focused Languages
+## Main focusing Languages
 - C++
 - JavaScript
 - Python
