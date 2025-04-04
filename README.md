@@ -13,9 +13,8 @@
 - Github action, docker image automation
 
 ## Interest
-- Quant
+- Quant SWE
 - Full Stack development
-- Potential AI research after graduation 
 
 ## Main focused Languages
 - C++
