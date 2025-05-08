@@ -1,6 +1,6 @@
 # Software Engineering Student at McGill
 
-*A Full Stack Developer that wants to get into Quant*
+*I only code in C++*
 
 
 ## Expertise
