@@ -12,6 +12,7 @@
 
 ## Interest
 - Full Stack development
+- Network & Distribution Systems
 - Quant SWE
 
 ## Main focusing Languages
