@@ -7,7 +7,7 @@
 - qt, WinAPI, C++
 - C++ DSA
 - SQL, ORM, DBMS
-- Node.js backend, Java backend
+- Node.js backend, Java backend, Rust Backend
 - ASM
 
 ## Interest
