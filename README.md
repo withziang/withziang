@@ -17,6 +17,7 @@
 
 ## Main focusing Languages
 - C++
+- Rust
 - JavaScript
 - Python
   
