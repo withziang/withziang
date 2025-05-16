@@ -4,10 +4,12 @@
 
 
 ## Expertise
-- qt, WinAPI, C++
+- Node.js backend, Java backend, Rust Backend
 - C++ DSA
 - SQL, ORM, DBMS
-- Node.js backend, Java backend, Rust Backend
+- Kubernet, cloudflare, Service Mesh
+- webRTC, TLS, gRBC
+- System architecture
 - ASM
 
 ## Interest
