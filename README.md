@@ -8,7 +8,7 @@
 - C++ DSA
 - SQL, ORM, DBMS
 - Kubernet, cloudflare, Service Mesh
-- webRTC, TLS, gRBC
+- webRTC, TLS, gRPC
 - System architecture
 - ASM
 
