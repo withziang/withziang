@@ -13,13 +13,7 @@
 - ASM
 
 ## Interest
-- Full Stack development
-- Network & Distribution Systems
-- Quant SWE
+- Backend Development
 
-## Main focusing Languages
-- C++
-- Rust
-- JavaScript
-- Python
+
   
