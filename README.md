@@ -1,6 +1,6 @@
 # Software Engineering Student at McGill
 
-*I love C++*
+*Mastering rust*
 
 
 ## Expertise
