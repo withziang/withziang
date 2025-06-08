@@ -7,7 +7,7 @@
 - Node.js backend, Java backend, Rust Backend
 - C++ DSA
 - SQL, ORM, DBMS
-- Kubernet, cloudflare, Service Mesh
+- Kubernetes, cloudflare, Service Mesh
 - webRTC, TLS, gRPC
 - System architecture
 - ASM
