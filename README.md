@@ -4,7 +4,7 @@
 
 
 ## Expertise
-- Node.js backend, Java backend, Rust Backend
+- Node.js backend, Java backend, C++ Backend
 - C++ DSA
 - SQL, ORM, DBMS
 - Kubernetes, cloudflare, Service Mesh
