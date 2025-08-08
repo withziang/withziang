@@ -10,7 +10,7 @@
 - Kubernetes, cloudflare, Service Mesh
 - webRTC, TLS, gRPC
 - System architecture
-- ASM
+- ASM hardware driver
 
 ## Interest
 - Backend Development
