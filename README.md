@@ -4,10 +4,10 @@
 
 
 ## Expertise
-- Node.js backend, Java backend, C++ Backend
+- Node.js backend, Java backend, Python Backend
 - C++ DSA
 - SQL, ORM, DBMS
-- Kubernetes, cloudflare, Service Mesh
+- Kubernetes, docker, helm chart
 - webRTC, TLS, gRPC
 - System architecture
 - ASM hardware driver
