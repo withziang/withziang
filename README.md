@@ -27,8 +27,5 @@
 
 
 
-## Interest
-- Backend Development
-
 
   
