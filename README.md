@@ -3,14 +3,16 @@
 *Mastering C++*
 
 
-## Expertise
-- Node.js backend, Java backend, Python Backend
-- C++ DSA
-- SQL, ORM, DBMS
-- Kubernetes, docker, helm chart
-- webRTC, TLS, gRPC
-- System architecture
-- ASM hardware driver
+## Repository
+
+### CLI
+- [replicated-growable-array-cli](https://github.com/withziang/replicated-growable-array-cli)
+
+### Backend
+
+### Frontend
+
+
 
 ## Interest
 - Backend Development
