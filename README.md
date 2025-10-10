@@ -10,6 +10,7 @@
 - [box-spread-finder](https://github.com/withziang/box-spread-finder)
 - [twogambits-CLI](https://github.com/withziang/twogambits-CLI)
 - [IMC_trading_bot](https://github.com/withziang/IMC_trading_bot)
+- [Trie](https://github.com/withziang/trie)
 
 
 ### Backend
