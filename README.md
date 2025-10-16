@@ -1,7 +1,5 @@
 # Software Engineering Student at McGill
 
-*Mastering C++*
-
 
 ## Repository
 
