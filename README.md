@@ -1,9 +1,6 @@
 # Software Engineering Student at McGill
 
 
-## Repository
-
-
 ### Backend
 - [gRPC-service-template-cpp](https://github.com/withziang/gRPC-service-template-cpp)
 - [server-DDoS](https://github.com/withziang/server-DDoS)
