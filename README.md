@@ -1,26 +1,3 @@
 # Software Engineering Student at McGill
 
-
-### Backend
-- [gRPC-service-template-cpp](https://github.com/withziang/gRPC-service-template-cpp)
-- [server-DDoS](https://github.com/withziang/server-DDoS)
-- [IMC_trading_bot](https://github.com/withziang/IMC_trading_bot)
-- [codeJam_2024_client_with_server](https://github.com/withziang/codeJam_2024_client_with_server)
-- [codeml2023-AirCanadaChallenge](https://github.com/withziang/codeml2023-AirCanadaChallenge)
-- [ConuHack2024-SAPChallenge](https://github.com/withziang/ConuHack2024-SAPChallenge)
-
-### CLI
-- [box-spread-finder](https://github.com/withziang/box-spread-finder)
-- [twogambits-CLI](https://github.com/withziang/twogambits-CLI)
-- [IMC_trading_bot](https://github.com/withziang/IMC_trading_bot)
-- [Trie](https://github.com/withziang/trie)
-
-### Frontend
-- [personal_website_2025](https://github.com/withziang/personal_website_2025)
-- [codeJam_2024_client_with_server](https://github.com/withziang/codeJam_2024_client_with_server)
-- [chessAI-project-client](https://github.com/withziang/chessAI-project-client)
-
-
-
-
-  
+Focusing on C++ system design and backend development in nodejs and java.
