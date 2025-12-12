@@ -8,7 +8,7 @@ Focusing on C++ system design and backend development in node.js and java.
 
 **Developer Intern @ Fuel Transport**
 
-**Research Intern @ Mitacs (Topology & Algebra)**
+**Research Intern @ Mitacs**
 
 
 
