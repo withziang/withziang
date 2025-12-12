@@ -1,18 +1,15 @@
 # Software engineering student at Mcgill University
 
-Focusing on C++ system design and backend development in nodejs and java.
-
+Focusing on C++ system design and backend development in node.js and java.
 
 ## Experience
 
-### **Software Developer Co-Op @ Ericsson**
-**Node.js • CI/CD • Java • Cloud Core**
+**Software Developer Co-Op @ Ericsson**
 
-### **Developer Intern @ Fuel Transport**
-**Node.js • PostgreSQL • Snowflake • Docker**
+**Developer Intern @ Fuel Transport**
 
-### **Research Intern @ Mitacs (Topology & Algebra)**
-**Python • Graph Theory • Homology**
+**Research Intern @ Mitacs (Topology & Algebra)**
+
 
 
 ## Awards
