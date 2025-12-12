@@ -2,7 +2,6 @@
 
 Focusing on C++ system design and backend development in nodejs and java.
 
----
 
 ## Experience
 
@@ -15,7 +14,6 @@ Focusing on C++ system design and backend development in nodejs and java.
 ### **Research Intern @ Mitacs (Topology & Algebra)**
 **Python • Graph Theory • Homology**
 
----
 
 ## Awards
 - **Leetcode Weekly** Top 5%
