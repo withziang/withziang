@@ -8,10 +8,6 @@ Focusing on C++ system design and backend development in node.js and java.
 
 **Developer Intern @ Fuel Transport**
 
-**Research Intern @ Mitacs**
-
-
-
 ## Awards
 - **Leetcode Weekly** — Top 5%
 - **ICPC NENA** — 5th in Quebec, 21st in region (2025)  
