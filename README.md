@@ -1,4 +1,4 @@
-# Software engineering student at Mcgill University
+# Software engineer
 
 Focusing on C++ system design and backend development in node.js and java.
 
