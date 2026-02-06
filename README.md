@@ -14,5 +14,5 @@ Focusing on C++ system design and backend development in node.js and java.
 - **Canadian Open Math Challenge** — QC Bronze & Silver (2019, 2021)
 
 ## Disclaimer
-There are vibe coded project and there are hand coded project. I do vibe code but all the public shown repo are later :)
+There are vibe coded projects and there are hand coded projects. I do vibe code but all the public shown repos are later :)
 
