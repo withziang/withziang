@@ -1,18 +1,74 @@
-# Software engineer
+/// =======================================================
+///  ZIANG WANG — SOFTWARE ENGINEER
+/// =======================================================
+///
+/// Focus:
+///   - C++ system design
+///   - Backend development (Node.js, Java)
+///
+/// Interests:
+///   - Performance-oriented systems
+///   - Clean architecture
+///   - Low-level problem solving
+///
 
-Focusing on C++ system design and backend development in node.js and java.
+namespace Profile {
 
-## Experience
+    const char* ROLE = "Software Engineer";
+    const char* FOCUS = "C++ Systems & Backend Engineering";
 
-**Software Developer Co-Op @ Ericsson**
+}
 
-**Developer Intern @ Fuel Transport**
+/// -------------------------------------------------------
+/// EXPERIENCE
+/// -------------------------------------------------------
 
-## Awards
-- **Leetcode Weekly** — Top 5%
-- **ICPC NENA** — 5th in Quebec, 21st in region (2025)  
-- **Canadian Open Math Challenge** — QC Bronze & Silver (2019, 2021)
+namespace Experience {
 
-## Disclaimer
-There are vibe coded projects and there are hand coded projects. I do vibe code but all the public shown repos are later :)
+    struct Role {
+        const char* title;
+        const char* company;
+    };
 
+    Role ericsson = {
+        "Software Developer Co-Op",
+        "Ericsson"
+    };
+
+    Role fuel_transport = {
+        "Developer Intern",
+        "Fuel Transport"
+    };
+
+}
+
+/// -------------------------------------------------------
+/// AWARDS & COMPETITIONS
+/// -------------------------------------------------------
+
+namespace Awards {
+
+    const char* leetcode_weekly =
+        "LeetCode Weekly Contests — Top 5%";
+
+    const char* icpc_nena =
+        "ICPC NENA (2025) — 5th in Quebec, 21st in Region";
+
+    const char* comc =
+        "Canadian Open Mathematics Challenge — QC Bronze & Silver (2019, 2021)";
+}
+
+/// -------------------------------------------------------
+/// DISCLAIMER
+/// -------------------------------------------------------
+
+/*
+ * There are vibe-coded projects
+ * and there are hand-coded projects.
+ *
+ * I do vibe code during exploration,
+ * but all public repositories are later
+ * rewritten, structured, and cleaned by hand :)
+ */
+
+/// =======================================================
