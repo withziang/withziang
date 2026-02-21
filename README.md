@@ -9,8 +9,8 @@
 //
 // Interests:
 //   • Performance-oriented systems
-//   • Clean architecture
-//   • Low-level problem solving
+//   • Ai Infra
+//   • Quant dev
 //
 
 #include <string>
