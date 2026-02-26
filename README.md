@@ -5,7 +5,6 @@
 //
 // Focus:
 //   • C++ system design
-//   • Backend development (Node.js, Java)
 //
 // Interests:
 //   • Performance-oriented systems
