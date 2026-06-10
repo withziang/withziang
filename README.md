@@ -34,6 +34,11 @@ namespace experience {
         std::string company;
     };
 
+    const Role AMAZON = {
+        "SDE Intern",
+        "Amazon"
+    };
+
     const Role ERICSSON = {
         "Software Developer Co-Op",
         "Ericsson"
