@@ -3,13 +3,6 @@
 //  ZIANG WANG
 // =======================================================
 //
-// Focus:
-//   • C++ system design
-//
-// Interests:
-//   • Performance-oriented systems
-//   • Ai Infra
-//   • Quant dev
 //
 
 #include <string>
